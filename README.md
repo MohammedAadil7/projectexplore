@@ -7,7 +7,6 @@ AWS Lambda and Amazon API Gateway.
 What's Here
 -----------
 12345
-This sample includes:
 
 * README.md - this file
 * buildspec.yml - this file is used by AWS CodeBuild to package your
